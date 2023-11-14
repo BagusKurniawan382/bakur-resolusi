@@ -3,4 +3,9 @@ RENCANA BELAJAR
 - DOM JavaScript
 - JavaScript Lanjutan
 - PHP Frameworks
+  ^ Laravel
 - Framework JavaScript
+  ^ Vue
+  ^ React
+- Struktur Data Dasar
+- Python
