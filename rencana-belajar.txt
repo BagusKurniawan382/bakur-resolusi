@@ -5,6 +5,7 @@ RENCANA BELAJAR
 - PHP Frameworks
   ^ Laravel
 - Framework JavaScript
-  ^ Angular
+  ^ Vue
   ^ React
+- Struktur Data Dasar
 - Python
