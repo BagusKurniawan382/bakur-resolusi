@@ -3,4 +3,8 @@ RENCANA BELAJAR
 - DOM JavaScript
 - JavaScript Lanjutan
 - PHP Frameworks
+  ^ Laravel
 - Framework JavaScript
+  ^ Angular
+  ^ React
+- Python
